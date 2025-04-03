@@ -1,6 +1,4 @@
 # Azure_Cognitive_Search
-![image](https://github.com/user-attachments/assets/cb7da31a-7180-474a-9c46-5af3def2312f)
-
 
 
 # 🔎 Azure Cognitive Search: Utilizando AI Search para Indexação e Consulta de Dados
@@ -107,3 +105,36 @@ api-version=2023-07-01 → Versão da API (verifique a mais atual na documentaç
 - [Portal do Language Studio](https://language.cognitive.azure.com/)
 
 ---
+## Imagens de Referência
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb7da31a-7180-474a-9c46-5af3def2312f" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/ea8e1671-e8a5-484b-84a7-6469e49b30b0" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/b83f5782-06f7-43ed-a365-028a94cb0559" width="30%" style="margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6ba26b1e-c494-4ab0-9a7e-0b91e3f8f777" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/8264377f-b706-47f0-9c44-8b5a50f837c3" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/85e61ce2-7231-4c8e-a1c5-7cb38f938171" width="30%" style="margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ad2a0fb1-ef5a-4cb2-8266-d19b3b85396e" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/f8e7d699-8b19-4625-8eaa-7b6dca107124" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/55e3a2e1-34a4-432b-81b0-3b3a549909b2" width="30%" style="margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/08cccc19-31da-4ab0-8c51-f2c9fb853ba8" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/b8a8843a-dc56-4667-ad9f-9244c6dcb28b" width="30%" style="margin: 5px;">
+  <img src="https://github.com/user-attachments/assets/349c36c3-32d5-45c5-b6f7-2c588db4b21f" width="30%" style="margin: 5px;">
+</p>
+
+
+
+
+
+
+
+
